@@ -4,7 +4,7 @@
   
 ![Typing](https://readme-typing-svg.herokuapp.com?lines=Welcome!;Not+much+to+see+here+yet...;More+to+come+soon!&center=true&font=Aptos&color=6b9763&duration=3500&pause=1000)
 
-Hello there! I'm an aspiring aerospace engineer looking to buid projects to satisfy my curiosity and solve problems. More importantly though, I am focused on learning and adding to my skillset. Take a look at my journey!
+Hello there! I'm an aspiring aerospace engineer looking to build projects to satisfy my curiosity and solve problems. More importantly though, I am focused on learning and adding to my skillset. Take a look at my journey!
 </div>
 
 ## Skills
