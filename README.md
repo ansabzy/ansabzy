@@ -31,12 +31,13 @@ Hello there! I'm Ansab, an aspiring aerospace engineer looking to build projects
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&center=true)
 ## Projects
 
-**1. Rocket Flight Simulator**
+**1. Rocket Flight Theoretical Vs. Experimental Results**
 (_In Progress_)
 
-- Building a python-based rocket flight simulator to emulate real-world values
-- Physics-based coding allowing me to detect rocket trajectory and forces
-
+- Simulated a model rocket in OpenRocket to detect trajectory and altitude
+- Interpretted simulation data in Python libraries such as Matplotlib and Pandas
+- Compared theoretical and experimental results by launching and recording data of a model rocket
+- Analyzed differences and potential variables that may have caused discrepancies
 
 **2. Model Rocket Project**
 (_Future Project_)
