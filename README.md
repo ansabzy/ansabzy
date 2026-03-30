@@ -31,7 +31,7 @@ Hello there! I'm Ansab, an aspiring aerospace engineer looking to build projects
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&center=true)
 ## Projects
 
-**1. Rocket Flight Theoretical Vs. Experimental Results**
+**1. Rocket Flight Analysis (DIY Altimeter)**
 (_In Progress_)
 
 - Simulated a model rocket in OpenRocket to detect trajectory and altitude
