@@ -31,19 +31,18 @@ Hello there! I'm Ansab, an aspiring aerospace engineer looking to build projects
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&center=true)
 ## Projects
 
-**1. Rocket Flight Analysis (DIY Altimeter)**
-(_In Progress_)
+**1. Python Rocket Flight Simulator** 
+- Coded a basic rocket flight simulator from scratch on a flat Earth model
+- Developed understanding of numpy, scipy, and matplot libraries
+- Showed rocket trajectory through altitude-time and velocity-time graphs
 
+**2. Rocket Flight Analysis (DIY Altimeter)**
+(_In Progress_)
 - Simulated a model rocket in OpenRocket to detect trajectory and altitude
 - Interpretted simulation data in Python libraries such as Matplotlib and Pandas
 - Compared theoretical and experimental results by launching and recording data of a model rocket
 - Analyzed differences and potential variables that may have caused discrepancies
 
-**2. Model Rocket Project**
-(_Future Project_)
-
-**3. Rasperry Pi Pico**
-(_Future Project_)
 
 
 
